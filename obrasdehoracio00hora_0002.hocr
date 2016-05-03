@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./obrasdehoracio00hora_0002.png"; bbox 0 0 1514 2354; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 375 1080 1143 1275">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 375 1080 1143 1275">
+     <span class='ocr_line' id='line_1_1' title="bbox 375 1080 1143 1132; baseline 0 -12"><span class='ocrx_word' id='word_1_1' title='bbox 375 1080 579 1132; x_wconf 66' lang='lat' dir='ltr'>Digitized</span> <span class='ocrx_word' id='word_1_2' title='bbox 600 1080 653 1132; x_wconf 85' lang='lat' dir='ltr'>by</span> <span class='ocrx_word' id='word_1_3' title='bbox 671 1080 744 1121; x_wconf 74' lang='lat' dir='ltr'>the</span> <span class='ocrx_word' id='word_1_4' title='bbox 768 1080 946 1121; x_wconf 70' lang='lat' dir='ltr'>{memet</span> <span class='ocrx_word' id='word_1_5' title='bbox 963 1080 1143 1121; x_wconf 74' lang='lat' dir='ltr'><strong>Archive</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 456 1152 1059 1204; baseline 0 -12"><span class='ocrx_word' id='word_1_6' title='bbox 456 1152 491 1192; x_wconf 81' lang='lat' dir='ltr'>in</span> <span class='ocrx_word' id='word_1_7' title='bbox 512 1153 625 1193; x_wconf 83' lang='grc'>2010</span> <span class='ocrx_word' id='word_1_8' title='bbox 644 1152 737 1193; x_wconf 74' lang='lat' dir='ltr'>with</span> <span class='ocrx_word' id='word_1_9' title='bbox 757 1152 935 1204; x_wconf 71' lang='lat' dir='ltr'>fundinq</span> <span class='ocrx_word' id='word_1_10' title='bbox 954 1152 1059 1193; x_wconf 78' lang='lat' dir='ltr'>from</span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 511 1223 1006 1275; baseline 0.002 -12"><span class='ocrx_word' id='word_1_11' title='bbox 511 1223 746 1275; x_wconf 78' lang='lat' dir='ltr'>University</span> <span class='ocrx_word' id='word_1_12' title='bbox 765 1223 808 1264; x_wconf 78' lang='lat' dir='ltr'>of</span> <span class='ocrx_word' id='word_1_13' title='bbox 825 1223 1006 1264; x_wconf 78' lang='lat' dir='ltr'>Toronto</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 0 2078 1400 2336">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 0 2078 1400 2336">
+     <span class='ocr_line' id='line_1_4' title="bbox 0 2078 1400 2336; baseline 0.001 -108"><span class='ocrx_word' id='word_1_14' title='bbox 0 2078 101 2336; x_wconf 28' lang='lat' dir='ltr'>&gt;Rs</span> <span class='ocrx_word' id='word_1_15' title='bbox 118 2163 1400 2240; x_wconf 70' lang='lat' dir='ltr'>http:llwww.archive.orqldetai{slobrasdehoraciooohora</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
